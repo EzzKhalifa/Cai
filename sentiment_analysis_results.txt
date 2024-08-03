@@ -1,0 +1,6 @@
+Input: Run
+Result: Positive
+
+Input: hate
+Result: Negative
+
